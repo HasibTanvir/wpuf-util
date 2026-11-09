@@ -1,9 +1,9 @@
 {
-  "key": "WPUF_OctoberDeals2026",
-  "start_date": "2026-10-13 00:00:00 EST",
-  "end_date": "2026-10-31 12:00:00 EST",
-  "title": "October Deals — Save Up to 40% on WP User Frontend Pro",
-  "content": "Build frontend forms, user registration, memberships, subscriptions, user directories, and more—all with WP User Frontend Pro.",
-  "action_url": "https://wedevs.com/wp-user-frontend-pro/pricing/",
-  "action_title": "Claim Your Discount →"
+  "key": "WPUF_EarlyBirdBlackFriday2026",
+  "start_date": "2026-11-05 00:00:00 EST",
+  "end_date": "2026-11-20 23:59:59 EST",
+  "title": "Early Bird Black Friday: Save Up to 50% on WP User Frontend Pro",
+  "content": "Build frontend forms, user registration, memberships, subscriptions, and user directories with WP User Frontend Pro. Early Bird prices are the lowest of the year.",
+  "action_url": "https://wedevs.com/wp-user-frontend-pro/pricing/?utm_source=wpuf-plugin&utm_medium=admin-notice&utm_campaign=early-bird-bf-2026&utm_content=cta-primary",
+  "action_title": "Grab the Early Bird Deal →"
 }
